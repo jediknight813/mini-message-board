@@ -2,6 +2,8 @@
 
 a message board make for the odin project made using express, and ejs.
 
+the website is hosted on heroku.
+
 a link to the odin project: https://www.theodinproject.com/
 
 a link to the website i made: https://afternoon-sierra-37435.herokuapp.com/
